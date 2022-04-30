@@ -624,3 +624,6 @@ Apagando o repositório
 # Assim finalizo esse readme, o pdf ficará disponível aqui nesse Repositório e espero que fique até após eu morrer, ainda vai demorar, mas espero conseguir
 # Manter minha mente focada nesse estudo e assim produzir junto a comunidade material suficiente para que qualquer um possa alcançar seus sonhos e cuidar de
 # quem ama.
+
+# Livro do Eric Matthes
+[E-Book - Eric Matthes - Curso Intensivo de Python - Editora Novatec.pdf](https://github.com/NVPanda/EricMatthes/files/8597069/E-Book.-.Eric.Matthes.-.Curso.Intensivo.de.Python.-.Editora.Novatec.pdf)
