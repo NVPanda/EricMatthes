@@ -2,6 +2,7 @@
 
 """ Este é o primeiro Exercício do Livro Curso Intensivo de Python do Eric Matthes
     Aproveitem bem o que é disponibilizado, estarei estruturando o github para este curso.
+    Este exercício começa na página 69. Os "Faça você mesmo!" que antecedem são explanação para aprendizagem do curso.
 """
 
 # Parte 1 - Faça Você Mesmo!

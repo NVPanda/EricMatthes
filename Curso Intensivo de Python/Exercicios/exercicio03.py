@@ -8,7 +8,7 @@
 
 # Início do Código
 
+mensagem = print(f'\x1B[3mAlbert Einstein certa vez declarou em um livro publicado em 1979:\n\t“No meio da dificuldade, encontra-se a oportunidade.”\x1B[0m')
+  # Fim do Código
 
-
-
-# Fim do Código
+# Nota: "Os códigos ' \x1B[3m ' e ' \x1B[0m ' são os conversores de texto que definem onde começa o itálico e onde termina respectivamente." 
