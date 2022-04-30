@@ -4,5 +4,18 @@
     Aproveitem bem o que é disponibilizado, estarei estruturando o github para este curso.
 """
 
-# Exercício 1:
-# 
+# Parte 1 - Faça Você Mesmo!
+
+# Exercício 1
+
+# Mensagem Pessoal - Armazene o nome de uma pessoa em uma variável e apresente uma mensagem a essa pessoa. Sua mensagem deve ser simples como 'Alô Eric, você gostaria de aprender um pouco de Python hoje?'
+
+# início do Código
+
+name = input('Digite seu nome: ')
+mensagem = input(f'Alô {name}, você gostaria de aprender um pouco de Python hoje?')
+
+print(mensagem)
+
+# Fim do Código
+
