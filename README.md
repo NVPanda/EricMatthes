@@ -615,7 +615,7 @@ Apagando o repositório
 # Para produzir da sua própria maneira. Não se prenda a minha forma de criar programas, faça do seu próprio jeito e estilo e aprenda de forma substancial
 # Isso garante que você aprenda e aprimore sua essência como programador.
 
-""" Minha frase final é: 'Haverá um dia que todos os programadores do mundo e de suas linguagens de programação diferentes se uniram em 1 única linguagem
+""" Minha frase final é: 'Haverá um dia que todos os programadores do mundo e de suas linguagens de programação diferentes se unirão em 1 única linguagem
                           fazendo com que todos percebam que mesmo tendo tudo de diferente ainda perseguimos o mesmo sonho, aperfeiçoar a nós mesmos!'
 """
 
