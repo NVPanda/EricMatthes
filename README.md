@@ -376,6 +376,7 @@ Pontuações máximas
 Exibindo o nível
 Exibindo o número de espaçonaves
 Resumo
+
 Projeto 2 ■ Visualização de dados
 
 15 ■ Gerando dados
@@ -592,6 +593,7 @@ IRC (Internet Relay Chat)
 Crie uma conta no IRC
 Canais para se associar
 Cultura do IRC
+
 D ■ Usando o Git para controle de versões
 Instalando o Git
 Instalando o Git no Linux
